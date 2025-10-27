@@ -317,7 +317,7 @@ Planned features for future releases include:
 
 ---
 
-**Built with ❤️ by Manus AI**
+**Built with ❤️ by Sahil**
 
 For the latest updates and more information, visit our website or follow us on social media.
 
